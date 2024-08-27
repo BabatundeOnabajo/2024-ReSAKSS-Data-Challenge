@@ -8,6 +8,7 @@ This contains some datasets and code relating to the paper for the 2024 ReSAKSS 
 
 # Additional Notes
 1. Some countries, such as Georgia, technically straddle between two continents. Where this happens, for the purposes of the spreadsheet "Performance At The Olympics By Country Between 2000-2024", the continent entered into the entry was determined by a coin flip. This fact has also been noted in the spreadsheet itself as well as the paper.
+2. The official website for the Olympics omits Eritrea in the Summer Olympics 2000 (Sydney, Australia) for unknown reasons. Eritrea made its first debut in 2000. The paper acknowledges this error but follows the Olympics website. In any event, Eritrea did not win a medal in 2000.
 
 # Sources
 
